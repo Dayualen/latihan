@@ -9,3 +9,6 @@ My full name is Rafidah Marlasari
 
 # experience
 1 year technical writer
+
+# education
+Teknik Telekomunikasi
