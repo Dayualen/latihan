@@ -7,3 +7,6 @@ Address : Srowot, Bakung, Jogonalan, Klaten<br>
 
 # About me
 Helo, this is Dayu, currently working as quality assurance manual, hope can learn about automation testing.
+
+# Experience
+Working as quality assurance manual for several years
