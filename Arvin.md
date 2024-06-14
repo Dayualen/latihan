@@ -4,4 +4,8 @@
 Purwokerto, Jawa Tengah <br>
 arv3licious@gmail.com <br>
 # About Me
-Passionate in making money in lazy way
+Passionate in making money in lazy way<br>
+
+# Experience
+
+Forex and Stock Trader for 15 years
