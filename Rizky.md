@@ -10,5 +10,6 @@ Im Passionate for QA <br>
 # Experience
 Quality Assurance Tester for two years<br>
 
-
+# Education
+UIN Jakarta Sistem Informasi
 
