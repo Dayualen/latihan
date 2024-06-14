@@ -3,3 +3,5 @@
 rratumahardhika@gmail.com
 Bantul, Yogyakarta, Indonesia
 
+# About Me
+Passionate in QA and Education
