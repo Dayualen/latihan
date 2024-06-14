@@ -9,3 +9,6 @@
 
 # Experience
 `Admin Data Entry` 
+
+# Education
+Teknik Informatika
