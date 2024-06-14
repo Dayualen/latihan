@@ -29,3 +29,25 @@ I'm a Computer Science graduate with a passion for UI/UX design. Currently, I'm 
 - Developed and executed QA test plans to identify and resolve bugs and performance issues.
 - Worked closely with development teams to ensure high-quality gaming experiences.
 - Enhanced user satisfaction by implementing feedback and continuous improvements.
+
+## Education
+
+**Universitas Diponegoro Semarang**  
+*Bachelor's Degree in Computer Science*  
+*2018 - 2022*  
+
+**SMAN 39 Jakarta**  
+*High School Diploma*  
+*2015 - 2018*  
+
+**SMPIT Buahati Islamic School**  
+*2012 - 2015*  
+
+**Darul Quran Mulia Boarding School**  
+*2012*  
+
+**SDIT As-Sa'adah**  
+*2006 - 2012*  
+
+**TK Panca Putera**  
+*2004 - 2006*  
