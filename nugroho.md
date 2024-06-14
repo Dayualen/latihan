@@ -11,3 +11,7 @@ Passionate in QA.
 # experience
 
 QA Tester, Pusdatin, Kementan 
+
+# education
+
+MM Information System, BINUS University
