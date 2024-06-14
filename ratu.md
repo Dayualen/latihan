@@ -8,3 +8,6 @@ Passionate in QA and Education
 
 # Experience
 New in QA
+
+# Education
+Computer Science
