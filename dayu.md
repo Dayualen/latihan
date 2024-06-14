@@ -1,7 +1,9 @@
 # Contact
 
-Nama : Dayuanti <br>
-No HP : 085715323377 <br>
+Name : Dayuanti <br>
+Phone number : 085715323377 <br>
 E-mail : dayualen@gmail.com<br>
-Alamat : Srowot, Bakung, Jogonalan, Klaten<br>
+Address : Srowot, Bakung, Jogonalan, Klaten<br>
 
+# About me
+Helo, this is Dayu, currently working as quality assurance manual, hope can learn about automation testing.
