@@ -8,9 +8,9 @@ Cinere, Depok</br>
 
 ## About Me
 
-Saya ganteng banget
+Saya ganteng banget</br>
 
 ## Experiences
 
-Binar Fullstack Web Engineering Certificated<br>
+Binar Fullstack Web Engineering Certificated</br>
 Binar Quality Assurance Engineer Student
