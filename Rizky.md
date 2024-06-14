@@ -7,5 +7,8 @@ email: rizky@gmail.com <br>
 Hello, my name is Rizky Aulia Rakib <br>
 Im Passionate for QA <br>
 
+# Experience
+Quality Assurance Tester for two years<br>
+
 
 
