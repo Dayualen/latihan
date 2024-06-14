@@ -21,15 +21,14 @@ I'm a Computer Science graduate with a passion for UI/UX design. Currently, I'm 
 - Collaborated with senior linguists to enhance language preservation initiatives.
 - Gained valuable experience in data collection and report writing.
 
-**UI/UX Designer & QA Specialist**  
+**Owner & Administrator**  
 *Chill Factory Gaming*  
 *2020 - Present*  
-- Designed user interfaces and user experiences for various gaming projects.
-- Created wireframes, prototypes, and conducted user testing to optimize game design.
-- Developed and executed QA test plans to identify and resolve bugs and performance issues.
-- Worked closely with development teams to ensure high-quality gaming experiences.
-- Enhanced user satisfaction by implementing feedback and continuous improvements.
-
+- Established and oversee operations for Chill Factory Gaming, specializing in video game sales, PS Plus subscriptions, digital game distribution (PS4/PS5), streaming services, and redemption codes.
+- Developed and implemented strategic initiatives to enhance customer satisfaction and drive business growth.
+- Managed day-to-day administrative tasks, including inventory management, customer service, and vendor relations.
+- Led business development efforts to expand service offerings and market presence.
+- Ensured operational efficiency and optimized processes to deliver exceptional gaming experiences to customers.
 ## Education
 
 **Universitas Diponegoro Semarang**  
