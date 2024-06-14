@@ -9,3 +9,7 @@
 
 ## About Me
 Mencari kerja
+
+## Experience
+- System Analyst
+- Manual Tester
