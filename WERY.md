@@ -6,3 +6,6 @@
 
 # About Me
 *I used to work with computer, Quality Assurance student in Binar Academy.*
+
+# Experience
+`Admin Data Entry` 
