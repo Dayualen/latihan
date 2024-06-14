@@ -8,3 +8,7 @@
 **LinkedIn:** [linkedin.com/in/mdimasandhika](https://www.linkedin.com/in/mdimasandhika/)  
 **GitHub:** [github.com/TheAnarchyOne](https://github.com/TheAnarchyOne) <br>
 **Website:** [chillfactorygaming.id](https://www.chillfactorygaming.id/) 
+
+## About Me
+I'm a Computer Science graduate with a passion for UI/UX design. Currently, I'm diving deep into Quality Assurance (QA). My background in coding and design allows me to create and ensure seamless, user-friendly digital experiences. I thrive on collaboration and continuous learning in the tech world.
+
