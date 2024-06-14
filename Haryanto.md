@@ -13,3 +13,7 @@ Mencari kerja
 ## Experience
 - System Analyst
 - Manual Tester
+
+## Education
+- S1
+- SMA
