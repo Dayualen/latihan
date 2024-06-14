@@ -12,5 +12,5 @@ Saya ganteng banget
 
 ## Experiences
 
-Binar Fullstack Web Engineering Certificated
+Binar Fullstack Web Engineering Certificated<br>
 Binar Quality Assurance Engineer Student
