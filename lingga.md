@@ -11,3 +11,7 @@ Passionate in QA and education.
 # experience
 
 QA Tester, Gameloft Indonesia, Yogyakarta
+
+# education
+
+Teknik Informatika
