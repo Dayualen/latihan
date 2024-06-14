@@ -7,3 +7,7 @@ Bantul, Yogyakarta, Indonesia
 # about me
 
 Passionate in QA and education.
+
+# experience
+
+QA Tester, Gameloft Indonesia, Yogyakarta
