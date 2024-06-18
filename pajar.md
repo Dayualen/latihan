@@ -6,3 +6,6 @@ Kabupaten Bogor, Indonesia
 
 # About Me
 im passionate in QA 
+
+# Experience
+- Administration of App Accounting
