@@ -8,4 +8,7 @@ Kabupaten Bogor, Indonesia
 im passionate in QA 
 
 # Experience
-- Administration of App Accounting
+Administration of App Accounting
+
+# Education
+Ilmu Komputer - Univeristas Pakuan
