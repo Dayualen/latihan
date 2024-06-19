@@ -10,3 +10,5 @@ im passionate in QA
 # Experience
 Administration of App Accounting
 
+# Education
+Ilmu Komputer - Univeristas Pakuan
